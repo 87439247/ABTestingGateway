@@ -15,3 +15,4 @@ t/servroot/
 stdout
 
 *.log
+.idea
